@@ -42,6 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+<img width="1230" height="737" alt="image" src="https://github.com/user-attachments/assets/e8853874-3e32-4b38-a8f4-a5972bde4ec9" />
 
 
 ### Procedure for Association Rules:
@@ -53,5 +54,9 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+<img width="1254" height="945" alt="image" src="https://github.com/user-attachments/assets/9bf4b613-9c4d-4754-8c7e-0d045fb40075" />
+
+<img width="1251" height="949" alt="image" src="https://github.com/user-attachments/assets/a15bbb9e-8940-450c-bc3d-9567d7385f44" />
 
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
